@@ -1,4 +1,4 @@
-# MealMind — Agentic AI System for Meal Planning and Daily Food Decision-Making
+# Agentic AI System for Meal Planning and Daily Food Decision-Making
 
 ระบบ Agentic AI สำหรับแนะนำเมนูอาหารและค้นหาร้านอาหารใกล้เคียงผ่าน LINE Bot โดยใช้ข้อมูลส่วนตัวของผู้ใช้เพื่อให้ได้เมนูที่ตรงใจมากที่สุด
 
