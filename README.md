@@ -217,7 +217,7 @@ restaurant_catalog (id, restaurant_name, menu_name,
 
 ## ผู้พัฒนา
 
-Krittin Chairab
-Natcha Chaitavasviboon
+- Krittin Chairab
+- Natcha Chaitavasviboon
 
 โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชา CPE311 Artificial Intelligence Laboratory
